@@ -6,8 +6,7 @@ import java.util.Scanner;
 
 public class ListMoviesApp {
 	public static void main (String[] args) {
-		Scanner scan = new Scanner(System.in);
-		
+			
 		
 		List<ListMovies> movie = new ArrayList<>();
 		movie.add(new ListMovies("Shutter", "drama"));
